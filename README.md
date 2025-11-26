@@ -1,4 +1,4 @@
-# 🎭 Realtime Emotion Analyzer
+# 🎭 Real-time Emotion Analyzer
 
 MediaPipe kullanarak gerçek zamanlı yüz ifadesi analizi ve duygu tanıma sistemi. Web kamerasından gelen görüntüleri analiz ederek 8 farklı duyguyu tespit eder ve görselleştirir.
 
@@ -59,12 +59,11 @@ numpy==1.26.4
 
 ## 📦 Kurulum
 
-### 1. Projeyi Klonlayın veya İndirin
+### 1. Projeyi Klonlayın
 
 ```bash
-cd /path/to/your/projects
-git clone <repository-url> duygu_tanima
-cd duygu_tanima
+git clone https://github.com/ozlem-dilek/realtime-emotion-analyzer.git
+cd realtime-emotion-analyzer
 ```
 
 ### 2. Sanal Ortam Oluşturun (Önerilir)
