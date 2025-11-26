@@ -1,4 +1,4 @@
-# 🎭 Duygu Tanıma Projesi
+# 🎭 Realtime Emotion Analyzer
 
 MediaPipe kullanarak gerçek zamanlı yüz ifadesi analizi ve duygu tanıma sistemi. Web kamerasından gelen görüntüleri analiz ederek 8 farklı duyguyu tespit eder ve görselleştirir.
 
